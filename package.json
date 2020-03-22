@@ -1,0 +1,19 @@
+{
+  "name": "smallmock",
+  "version": "1.0.0",
+  "description": "Smalltalk JS Mocking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmalltalkLand/SmallMock.git"
+  },
+  "author": "Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmalltalkLand/SmallMock/issues"
+  },
+  "homepage": "https://github.com/SmalltalkLand/SmallMock#readme"
+}
